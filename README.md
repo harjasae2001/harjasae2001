@@ -1,6 +1,7 @@
 ![HEADER](header.png)
 ![GIPHY](giphy.gif)
 ![cat-gif](cat.gif)
+![react-icon](react.gif)
 - 👋 Hi, I’m @harjasae2001
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Machine Learning
