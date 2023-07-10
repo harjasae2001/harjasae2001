@@ -8,9 +8,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
-
-
-![react-icon](react.svg)
 - 👋 Hi, I’m @harjasae2001
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Machine Learning
