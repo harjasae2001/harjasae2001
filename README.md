@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Cryptoapp&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-]
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasae2001&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut-vertical)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
