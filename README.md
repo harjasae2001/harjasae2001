@@ -2,7 +2,7 @@
 <img src="cat.gif" alt="cat" width="100%"  />
 
 ## Github Stats
-[![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Repositories
 <!--
