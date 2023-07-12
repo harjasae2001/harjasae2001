@@ -24,24 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasae2001&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut-vertical)
 
 <!--START_SECTION:waka-->
-<!--
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: windows-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_e98aad19-945f-4246-b559-5973bd7c6829 }}
-          GH_TOKEN: ${{ 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 }}
-  -->
 <!--END_SECTION:waka-->
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
