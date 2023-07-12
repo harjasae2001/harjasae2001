@@ -5,14 +5,42 @@
 [![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Repositories
+<!--
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Cryptoapp&show_owner=true" alt="" width="50%">
+ <a hreg="https://github.com/harjasae2001/CryptoApp"></a>
+ <img/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true" alt="" width="50%">
+  <a hreg="https://github.com/harjasae2001/CryptoApp"></a>
+<img/> -->
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Cryptoapp&show_owner=true)](https://github.com/harjasae2001/CryptoApp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true)](https://github.com/harjasae2001/Real_Estate_Finder)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Weather_App&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Weather_App&show_owner=true)](https://github.com/harjasae2001/Weather_App)
 
 ## Top Languages Used By Me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasae2001&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut-vertical)
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: windows-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ waka_e98aad19-945f-4246-b559-5973bd7c6829 }}
+          GH_TOKEN: ${{ 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 }}
+<!--END_SECTION:waka-->
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -66,12 +94,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
+<!---
 - 👋 Hi, I’m @harjasae2001
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me harjasae2001@gmail.com
-
+--->
 <!---
 harjasae2001/harjasae2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
