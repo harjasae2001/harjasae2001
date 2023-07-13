@@ -1,14 +1,24 @@
 ![HEADER](header.png)
 <img src="cat.gif" alt="cat" width="100%"  />
 
-## Github Stats
+<details>
+<summary><h2>📈 Github Stats</h2></summary>
+<!-- ## Github Stats -->
+ 
 [![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harjasae2001)
--->
-## Pinned Repositories
+</details>
 
-<div style="margin:50px;">
+<details>
+  <summary><h2>🏆 Github awards</h2></summary>
+ 
+![Alexandre Paradis Github Trophy](https://github-profile-trophy.vercel.app/?username=harjasae2001&theme=onedark&title=PullRequest,Commit,Issues)
+</details>
+
+<details>
+  <summary>
+     <h2>📌 Pinned Repositories</h2>
+  </summary>
+ <div style="margin:50px;">
  
 <a href="https://github.com/harjasae2001/CryptoApp">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=CryptoApp&show_owner=true" />
@@ -23,28 +33,40 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-<!---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Cryptoapp&show_owner=true)](https://github.com/harjasae2001/CryptoApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true)](https://github.com/harjasae2001/Real_Estate_Finder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Weather_App&show_owner=true)](https://github.com/harjasae2001/Weather_App)
---->
+</details>
 
-## Top Languages Used By Me
+<details>
+     <summary><h2>📊 Top Languages Used By Me</h2></summary>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasae2001&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut-vertical)
 
+</details>
 
-## Daily CountDown
+<details>
+ <summary>
+<h2>⏱️ Daily CountDown </h2>
+ </summary>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harjasae2001&" alt="harjasae2001" /></p>
-<!-- HTML -->
+</details>
 
-## Jokes
+<details>
+ <summary>
+  
+<h2>😜 Jokes</h2>
+</summary>
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme='dark'" alt="Jokes Card" />
+</details>
 
+<!--
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-<h3 align="left">Connect with me:</h3>
+<details>
+ <summary>
+<h2 align="left">🫱🏼‍🫲🏾 Connect with me:</h2>
+ </summary>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harjasae2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harjasae2001/" height="30" width="40" /></a>
 <a href="https://kaggle.com/harjas singh 1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harjas singh 1609" height="30" width="40" /></a>
@@ -53,6 +75,8 @@
 <a href="https://codeforces.com/profile/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harjascpmaster" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjascpmaster" height="30" width="40" /></a>
 </p>
+</details>
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
