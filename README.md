@@ -1,9 +1,9 @@
 ![HEADER](header.png)
-<img src="cat.gif" alt="cat" width="100%"  />
+<img src="cat.gif" alt="cat" width="100%" height="600px"/>
 
+<!-- Github Stats -->
 <details>
 <summary><h2>📈 Github Stats</h2></summary>
-<!-- ## Github Stats -->
  
 [![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 </details>
@@ -126,18 +126,16 @@
 -->
 <details>
    <summary><h2>👨🏻‍💻 Languages and Skills</h2></summary>
-<p>
+
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
-</p>
-<p>
+
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="200"/>
-</p>
-<p>
+
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="drawing" width="200"/>
-</p>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
