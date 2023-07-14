@@ -48,6 +48,9 @@
 <!--END_SECTION:activity-->
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
      <summary><h2>📊 Top Languages Used By Me</h2></summary>
  
