@@ -40,6 +40,8 @@
 </a>
 </details>
 
+<!--START_SECTION:activity-->
+
 <details>
      <summary><h2>📊 Top Languages Used By Me</h2></summary>
  
