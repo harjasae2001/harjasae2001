@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjasae2001&label=Profile%20views&color=0e75b6&style=flat" alt="harjasae2001" /> </p>
 
+<!--Visitors Badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harjasae2001.CryptoApp&left_color=green&right_color=red)
+-->
 <!-- Github Stats -->
 <details>
 <summary><h2>📈 Github Stats</h2></summary>
