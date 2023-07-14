@@ -59,9 +59,6 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme='dark'" alt="Jokes Card" />
 </details>
 
-<!--
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
--->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -78,76 +75,18 @@
 <a href="https://www.leetcode.com/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjascpmaster" height="30" width="40" /></a>
 </p>
 </details>
-<!--
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README 
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons 
-<!-- no need to change these 
-
-<!-- icons with padding 
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding 
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts 
-<!-- update these accordingly 
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial 
-
--->
 <details>
    <summary><h2>👨🏻‍💻 Languages and Skills</h2></summary>
-
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
-
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="200"/>
-
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="drawing" width="200"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="drawing" width="200"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="200"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="drawing" width="80"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="drawing" width="80"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="drawing" width="80"/>
 </details>
-<!--
-<h1 align="center">Hi 👋, I'm Harjas Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
--->
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31s47awoltmycfqpeveuujdadk3a)
@@ -195,14 +134,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&locale=en" alt="harjasae2001" /></p>
 
 
-<!---
-- 👋 Hi, I’m @harjasae2001
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me harjasae2001@gmail.com
---->
-<!---
-harjasae2001/harjasae2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
