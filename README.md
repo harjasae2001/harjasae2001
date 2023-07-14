@@ -49,31 +49,79 @@
 </details>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-<details>
-     <summary><h2>📊 Top Languages Used By Me</h2></summary>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasae2001&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut-vertical)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-341-blue)
 
-</details>
+**🐱 My GitHub Data** 
 
-<details>
- <summary>
-<h2>⏱️ Daily CountDown </h2>
- </summary>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harjasae2001&" alt="harjasae2001" /></p>
-</details>
+> 📦 51.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 45 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
-<details>
- <summary>
-  
-<h2>😜 Jokes</h2>
-</summary>
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme='dark'" alt="Jokes Card" />
-</details>
+```text
+🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌆 Daytime                57 commits          █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌃 Evening                82 commits          ████████████░░░░░░░░░░░░░   49.40 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+```
+📅 **I'm Most Productive on Friday** 
 
-<!--START_SECTION:waka-->
+```text
+Monday                   32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Web Development          0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/07/2023 18:35:55 UTC
 <!--END_SECTION:waka-->
 
 <details>
