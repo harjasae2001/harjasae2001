@@ -24,18 +24,31 @@
   <summary>
      <h2>📌 Pinned Repositories</h2>
   </summary>
+ <ul>
+  <li>
+   
+ <a href="https://github.com/harjasae2001/E-Commerce">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=E-Commerce&show_owner=true" />
+</a>
+  </li>
+  <li>
+   
 <a href="https://github.com/harjasae2001/CryptoApp">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=CryptoApp&show_owner=true" />
 </a>
+  </li>
+  <li>
+   
 <a href="https://github.com/harjasae2001/Real_Estate_Finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true" />
 </a>
+  </li>
+  <li>
+   
 <a href="https://github.com/harjasae2001/Weather_App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Weather_App&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  </li>
 </details>
    
 <!--START_SECTION:activity-->
