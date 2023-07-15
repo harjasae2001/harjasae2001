@@ -1,7 +1,7 @@
 ![HEADER](header.png)
 <img src="cat.gif" alt="cat" width="100%" height="600px"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harjasae2001&label=Profile%20views&color=0e75b6&style=flat" alt="harjasae2001" /> </p>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-341-blue)
 
 <!--Visitors Badge
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harjasae2001.CryptoApp&left_color=green&right_color=red)
@@ -23,15 +23,12 @@
   <summary>
      <h2>📌 Pinned Repositories</h2>
   </summary>
- <div style="margin:50px;">
- 
 <a href="https://github.com/harjasae2001/CryptoApp">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=CryptoApp&show_owner=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=CryptoApp&show_owner=true" />
 </a>
 <a href="https://github.com/harjasae2001/Real_Estate_Finder">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Real_Estate_Finder&show_owner=true" />
 </a>
-</div>
 <a href="https://github.com/harjasae2001/Weather_App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harjasae2001&repo=Weather_App&show_owner=true" />
 </a>
@@ -39,16 +36,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 </details>
+   
+<!--START_SECTION:activity-->
 
 <details>
   <summary><h2>🤾🏻‍♂️ GitHub Activity</h2></summary>
-   
-<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
-<!--END_SECTION:activity-->
 </details>
-
+<!--END_SECTION:activity-->
+ 
 <!--START_SECTION:waka-->
+
+<details>
+   <summary><h2>🚶🏻‍♂️ WakaTime</h2></summary>
+ 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-341-blue)
@@ -122,6 +123,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 14/07/2023 18:37:39 UTC
+</details>
 <!--END_SECTION:waka-->
 
 <details>
