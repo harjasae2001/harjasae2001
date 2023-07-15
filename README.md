@@ -50,20 +50,17 @@
 </a>
   </li>
 </details>
-   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
-  <summary><h2>🤾🏻‍♂️ GitHub Activity</h2></summary>
-
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
-</details>
-<!--END_SECTION:activity-->
- 
-<!--START_SECTION:waka-->
 
 <details>
+  <summary><h2>🤾🏻‍♂️ GitHub Activity</h2></summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+ 
+<details>
    <summary><h2>🚶🏻‍♂️ WakaTime</h2></summary>
+<!--START_SECTION:waka-->
+
  
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -138,8 +135,8 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 14/07/2023 18:37:39 UTC
-</details>
 <!--END_SECTION:waka-->
+</details>
 
 <details>
  <summary>
