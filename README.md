@@ -40,7 +40,7 @@
    
 <!--START_SECTION:activity-->
 
-<details>
+1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
   <summary><h2>🤾🏻‍♂️ GitHub Activity</h2></summary>
 1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
 </details>
