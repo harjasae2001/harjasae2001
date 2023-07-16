@@ -1,7 +1,6 @@
 ![HEADER](header.png)
 <img src="cat.gif" alt="cat" width="100%" height="600px"/>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-341-blue)
 
 <!-- Github Stats -->
 <details>
