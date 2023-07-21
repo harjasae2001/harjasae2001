@@ -7,6 +7,7 @@
 <summary><h2>📈 Github Stats</h2></summary>
  
 [![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 <!--Github Awards-->
