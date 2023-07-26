@@ -52,7 +52,7 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/harjasae2001/pull/1) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
+1. 🎉 Merged PR [#1](https://github.com/harjasae2001/portfolio/pull/1) in [harjasae2001/portfolio](https://github.com/harjasae2001/portfolio)
 <!--END_SECTION:activity-->
 
  
