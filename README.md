@@ -52,7 +52,7 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/portfolio/pull/1) in [harjasae2001/portfolio](https://github.com/harjasae2001/portfolio)
+1. 🎉 Merged PR [#1](https://github.com/harjasae2001/Netflix-Clone/pull/1) in [harjasae2001/Netflix-Clone](https://github.com/harjasae2001/Netflix-Clone)
 <!--END_SECTION:activity-->
 
  
