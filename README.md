@@ -139,10 +139,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <h2 align="left">🫱🏻‍🫲🏿 Connect with me</h2>
  </summary>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harjasae2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harjasae2001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harjasae2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" /></a>
 <a href="https://kaggle.com/harjas singh 1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harjas singh 1609" height="30" width="40" /></a>
 <a href="https://instagram.com/harjasae2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harjasae2001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harjascp" target="blank"><img background="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harjascp" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harjascpmaster" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjascpmaster" height="30" width="40" /></a>
 </p>
