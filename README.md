@@ -136,7 +136,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 07/12/2023 18:36:30 UTC
 <!--END_SECTION:waka-->
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
 
 <details>
  <summary>
