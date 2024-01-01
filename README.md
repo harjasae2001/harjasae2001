@@ -58,7 +58,7 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,7 +66,7 @@
 
 > 📦 59.4 kB Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,7 +134,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:34:30 UTC
+ Last Updated on 01/01/2024 18:32:51 UTC
 <!--END_SECTION:waka-->
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
 
