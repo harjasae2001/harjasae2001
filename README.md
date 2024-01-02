@@ -1,7 +1,6 @@
 ![HEADER](header.png)
 <img src="cat.gif" alt="cat" width="100%" height="600px"/>
 
-
 <!-- Github Stats -->
 <details>
 <summary><h2>📈 Github Stats</h2></summary>
@@ -9,15 +8,11 @@
 [![Harjas's GitHub stats]( https://github-readme-stats-one-flame-37.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
 <!--Github Awards-->
 <details>
   <summary><h2>🏆 Github awards</h2></summary>
- 
-
 <p align="left"> <a href="https://github.com/harjasae2001"><img src="https://github-profile-trophy.vercel.app/?username=harjasae2001&theme=onedark" alt="harjasae2001" /></a> </p>
 </details>
-
 
 <!--Pinned Repos-->
 <details>
@@ -136,6 +131,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 01/01/2024 18:35:11 UTC
 <!--END_SECTION:waka-->
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
 
 <details>
@@ -161,8 +157,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="drawing" width="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="drawing" width="80"/>
-          
-          
 </details>
 
 <!--Spotify Playing-->
