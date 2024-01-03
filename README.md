@@ -1,5 +1,5 @@
 ![HEADER](header.png)
-<img src="cat.gif" alt="cat" width="100%" height="600px"/>
+<img src="giphy.gif" alt="cat" width="100%" height="600px"/>
 
 <!-- Github Stats -->
 <details>
