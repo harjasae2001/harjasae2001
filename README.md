@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://github.com/harjasae2001"><img src="https://github-profile-trophy.vercel.app/?username=harjasae2001&theme=onedark" alt="harjasae2001" /></a> </p>
 </details>
 
-<!--Pinned Repos-->
+<!--Pinned Repos
 <details>
   <summary>
      <h2>📌 Pinned Repositories</h2>
@@ -45,6 +45,7 @@
 </a>
   </li>
 </details>
+-->
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2604](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2604#issuecomment-1752369909) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
