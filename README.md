@@ -48,7 +48,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2604](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2604#issuecomment-1752369909) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+1. 🎉 Merged PR [#1](https://github.com/harjasae2001/css-battle-solution/pull/1) in [harjasae2001/css-battle-solution](https://github.com/harjasae2001/css-battle-solution)
 <!--END_SECTION:activity-->
 
  
