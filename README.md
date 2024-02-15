@@ -97,8 +97,8 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     12 mins             ████████████████████░░░░░   79.35 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Text                     12 mins             ████████████████████░░░░░   79.30 % 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
@@ -128,7 +128,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:32:11 UTC
+ Last Updated on 15/02/2024 18:34:49 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
