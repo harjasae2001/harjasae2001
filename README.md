@@ -62,8 +62,6 @@
 
 > 📦 63.1 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -97,18 +95,18 @@ Sunday                   77 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     3 mins              █████████████░░░░░░░░░░░░   53.72 % 
-Markdown                 3 mins              ███████████░░░░░░░░░░░░░░   45.24 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Text                     3 mins              ██████████████░░░░░░░░░░░   54.81 % 
+Markdown                 3 mins              ███████████░░░░░░░░░░░░░░   44.17 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-css-battle-solution      6 mins              █████████████████████████   100.00 % 
+css-battle-solution      7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +126,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 18:31:54 UTC
+ Last Updated on 17/02/2024 18:34:37 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
