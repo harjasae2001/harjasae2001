@@ -60,9 +60,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 63.1 kB Used in GitHub's Storage 
+> 📦 63.2 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2024
+> 🏆 77 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -70,6 +70,46 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                248 commits         █████████░░░░░░░░░░░░░░░░   34.30 % 
+🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌃 Evening                257 commits         █████████░░░░░░░░░░░░░░░░   35.55 % 
+🌙 Night                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   134 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Wednesday                87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Thursday                 103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Sunday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Text                     3 mins              █████████████████░░░░░░░░   66.90 % 
+Markdown                 1 min               ████████░░░░░░░░░░░░░░░░░   33.10 % 
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+css-battle-solution      5 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    5 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -87,7 +127,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2024 18:34:32 UTC
+ Last Updated on 19/02/2024 18:32:02 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
