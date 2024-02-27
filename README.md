@@ -48,7 +48,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81589](https://github.com/firstcontributions/first-contributions/pull/81589) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🎉 Merged PR [#5](https://github.com/harjasae2001/css-battle-solution/pull/5) in [harjasae2001/css-battle-solution](https://github.com/harjasae2001/css-battle-solution)
 <!--END_SECTION:activity-->
 
  
