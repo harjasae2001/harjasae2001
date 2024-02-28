@@ -48,7 +48,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/harjasae2001/css-battle-solution/pull/5) in [harjasae2001/css-battle-solution](https://github.com/harjasae2001/css-battle-solution)
+1. 🎉 Merged PR [#6](https://github.com/harjasae2001/css-battle-solution/pull/6) in [harjasae2001/css-battle-solution](https://github.com/harjasae2001/css-battle-solution)
 <!--END_SECTION:activity-->
 
  
