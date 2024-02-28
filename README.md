@@ -48,7 +48,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/harjasae2001/css-battle-solution/pull/7) in [harjasae2001/css-battle-solution](https://github.com/harjasae2001/css-battle-solution)
+1. 🎉 Merged PR [#6](https://github.com/harjasae2001/CryptoApp/pull/6) in [harjasae2001/CryptoApp](https://github.com/harjasae2001/CryptoApp)
 <!--END_SECTION:activity-->
 
  
