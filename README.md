@@ -48,7 +48,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/harjasae2001/CryptoApp/pull/7) in [harjasae2001/CryptoApp](https://github.com/harjasae2001/CryptoApp)
+1. 🎉 Merged PR [#2](https://github.com/harjasae2001/Real_Estate_Finder/pull/2) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
 <!--END_SECTION:activity-->
 
  
