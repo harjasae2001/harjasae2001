@@ -97,22 +97,16 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 10 mins        █████████████████████░░░░   85.38 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project                  48 mins             ███████████████░░░░░░░░░░   58.89 % 
-project(1)               34 mins             ██████████░░░░░░░░░░░░░░░   41.05 % 
-css-battle-solution      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +126,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2024 18:32:07 UTC
+ Last Updated on 06/03/2024 18:34:37 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
