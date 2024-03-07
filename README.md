@@ -48,7 +48,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/harjasae2001/E-Commerce/pull/8) in [harjasae2001/E-Commerce](https://github.com/harjasae2001/E-Commerce)
+1. 🎉 Merged PR [#7](https://github.com/harjasae2001/Real_Estate_Finder/pull/7) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
 <!--END_SECTION:activity-->
 
  
