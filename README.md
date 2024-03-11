@@ -132,6 +132,14 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
 
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harjasae2001&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
+
 <details>
  <summary>
 <h2 align="left">🫱🏻‍🫲🏿 Connect with me</h2>
