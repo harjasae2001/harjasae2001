@@ -144,8 +144,11 @@ TypeScript               1 repo              █░░░░░░░░░░�
    </a>
 </p>
 
+[![An image of @harjasae2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjasae2001)](https://holopin.io/@harjasae2001)
+<!--
 <p align="left"> <a href="https://holopin.io/@harjasae2001"><img src="https://holopin.io/api/user/board?user=harjasae2001"/></a> </p>
-
+<p align="left"> <a href="https://holopin.io/@harjasae2001"><img src="https://holopin.io/api/user/board?user=harjasae2001"/></a> </p>
+-->
 <details>
  <summary>
 <h2 align="left">🫱🏻‍🫲🏿 Connect with me</h2>
