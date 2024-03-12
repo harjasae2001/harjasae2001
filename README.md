@@ -3,13 +3,13 @@
 
 ![https://img.shields.io/twitter/follow/harjasae2001](https://img.shields.io/twitter/follow/harjasae2001?link=https%3A%2F%2Ftwitter.com%2Fharjasae2001)
 
-
+<hr style="border:2px solid gray"> </hr>
 <!-- Github Stats -->
-<details>
-<summary><h2>📈 Github Stats</h2></summary>
+<details><summary><h2>📈 Github Stats</h2></summary>
  
 [![Harjas's GitHub stats]( https://github-readme-stats-one-flame-37.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr style="border:2px solid gray"> </hr>
 </details>
 <!--Github Awards-->
 <details>
@@ -17,6 +17,7 @@
 <p align="left"> <a href="https://github.com/harjasae2001"><img src="https://github-profile-trophy.vercel.app/?username=harjasae2001&theme=onedark" alt="harjasae2001" /></a> </p>
 </details>
 
+<hr style="border:2px solid gray"> </hr>
 <!--Pinned Repos
 <details>
   <summary>
@@ -134,8 +135,11 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 11/03/2024 18:34:46 UTC
 <!--END_SECTION:waka-->
 
+<hr style="border:2px solid gray"> </hr>
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
 
+<hr style="border:2px solid gray"> </hr>
 <p align="center">
    <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
@@ -144,11 +148,15 @@ TypeScript               1 repo              █░░░░░░░░░░�
    </a>
 </p>
 
+<hr style="border:2px solid gray"> </hr>
+
 [![An image of @harjasae2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjasae2001)](https://holopin.io/@harjasae2001)
 <!--
 <p align="left"> <a href="https://holopin.io/@harjasae2001"><img src="https://holopin.io/api/user/board?user=harjasae2001"/></a> </p>
 <p align="left"> <a href="https://holopin.io/@harjasae2001"><img src="https://holopin.io/api/user/board?user=harjasae2001"/></a> </p>
 -->
+
+<hr style="border:2px solid gray"> </hr>
 <details>
  <summary>
 <h2 align="left">🫱🏻‍🫲🏿 Connect with me</h2>
@@ -162,6 +170,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 </p>
 </details>
 
+<hr style="border:2px solid gray"> </hr>
 <!--Languages and Skills-->
 <details>
    <summary><h2>👨🏻‍💻 Languages and Skills</h2></summary>
@@ -173,6 +182,8 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="drawing" width="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="drawing" width="80"/>
 </details>
+
+<hr style="border:2px solid gray"> </hr>
 
 <!--Spotify Playing-->
 &nbsp;<div align="center">
