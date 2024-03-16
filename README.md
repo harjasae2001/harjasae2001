@@ -58,7 +58,7 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2041%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/a2410325-7130-44ce-842c-e39eb293db29.svg)](https://wakatime.com/@a2410325-7130-44ce-842c-e39eb293db29)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
