@@ -52,7 +52,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/harjasae2001/CryptoApp/issues/11) in [harjasae2001/CryptoApp](https://github.com/harjasae2001/CryptoApp)
+1. 🎉 Merged PR [#15](https://github.com/harjasae2001/Real_Estate_Finder/pull/15) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
 <!--END_SECTION:activity-->
 
  
