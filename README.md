@@ -52,7 +52,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/harjasae2001/Real_Estate_Finder/pull/19) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
+1. 🎉 Merged PR [#22](https://github.com/harjasae2001/Real_Estate_Finder/pull/22) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
 <!--END_SECTION:activity-->
 
  
