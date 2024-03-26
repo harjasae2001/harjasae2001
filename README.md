@@ -1,7 +1,6 @@
 ![HEADER](header.png)
 <img src="giphy.gif" alt="cat" width="100%" height="600px"/>
 
-
 ![https://img.shields.io/twitter/follow/harjasae2001](https://img.shields.io/twitter/follow/harjasae2001?link=https%3A%2F%2Ftwitter.com%2Fharjasae2001)
 
 <hr style="border:2px solid gray"> </hr>
