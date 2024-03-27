@@ -188,6 +188,8 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <hr style="border:2px solid gray"> </hr>
 
 <!--Spotify Playing-->
+<h2>Now Playing</h2>
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31s47awoltmycfqpeveuujdadk3a)
 </div>
