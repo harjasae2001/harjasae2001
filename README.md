@@ -52,7 +52,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/harjasae2001/css-battle-solution/pull/8) in [harjasae2001/css-battle-solution](https://github.com/harjasae2001/css-battle-solution)
+1. 🎉 Merged PR [#6](https://github.com/harjasae2001/Netflix-Clone/pull/6) in [harjasae2001/Netflix-Clone](https://github.com/harjasae2001/Netflix-Clone)
 <!--END_SECTION:activity-->
 
  
