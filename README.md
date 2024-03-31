@@ -52,7 +52,7 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/harjasae2001/Netflix-Clone/pull/7) in [harjasae2001/Netflix-Clone](https://github.com/harjasae2001/Netflix-Clone)
+1. 🎉 Merged PR [#26](https://github.com/harjasae2001/Real_Estate_Finder/pull/26) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
 <!--END_SECTION:activity-->
 
  
