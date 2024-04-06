@@ -1,25 +1,24 @@
 ![HEADER](header.png)
-<img src="cat.gif" alt="cat" width="100%" height="600px"/>
+<img src="giphy.gif" alt="cat" width="100%" height="600px"/>
 
+![https://img.shields.io/twitter/follow/harjasae2001](https://img.shields.io/twitter/follow/harjasae2001?link=https%3A%2F%2Ftwitter.com%2Fharjasae2001)
 
+<hr style="border:2px solid gray"> </hr>
 <!-- Github Stats -->
-<details>
-<summary><h2>📈 Github Stats</h2></summary>
+<details><summary><h2>📈 Github Stats</h2></summary>
  
-[![Harjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Harjas's GitHub stats]( https://github-readme-stats-one-flame-37.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
+<hr style="border:2px solid gray"> </hr>
 <!--Github Awards-->
 <details>
   <summary><h2>🏆 Github awards</h2></summary>
- 
-
 <p align="left"> <a href="https://github.com/harjasae2001"><img src="https://github-profile-trophy.vercel.app/?username=harjasae2001&theme=onedark" alt="harjasae2001" /></a> </p>
 </details>
 
-
-<!--Pinned Repos-->
+<hr style="border:2px solid gray"> </hr>
+<!--Pinned Repos
 <details>
   <summary>
      <h2>📌 Pinned Repositories</h2>
@@ -50,48 +49,47 @@
 </a>
   </li>
 </details>
+-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/Netflix-Clone/pull/1) in [harjasae2001/Netflix-Clone](https://github.com/harjasae2001/Netflix-Clone)
+1. 🎉 Merged PR [#22](https://github.com/harjasae2001/E-Commerce/pull/22) in [harjasae2001/E-Commerce](https://github.com/harjasae2001/E-Commerce)
 <!--END_SECTION:activity-->
 
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 55.5 kB Used in GitHub's Storage 
+> 📦 79.5 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2023
+> 💼 Opted to Hire
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                135 commits         ███████████░░░░░░░░░░░░░░   42.59 % 
-🌆 Daytime                71 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-🌃 Evening                102 commits         ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌞 Morning                271 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌆 Daytime                186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌃 Evening                382 commits         ███████████░░░░░░░░░░░░░░   42.49 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Friday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Saturday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Sunday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Monday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Tuesday                  114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Wednesday                138 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Friday                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Saturday                 133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Sunday                   88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 
@@ -101,26 +99,31 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 33 mins       ██████████████████░░░░░░░   70.81 % 
+JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Web Development          3 hrs 37 mins       █████████████████████████   99.96 % 
+Desktop                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            █████████████░░░░░░░░░░░░   52.00 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               14 repos            █████████████░░░░░░░░░░░░   51.85 % 
+CSS                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -130,39 +133,64 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2023 18:35:15 UTC
+ Last Updated on 05/04/2024 18:34:40 UTC
 <!--END_SECTION:waka-->
 
+<hr style="border:2px solid gray"> </hr>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/harjasae2001/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns)](https://githubtrends.io)
+
+<hr style="border:2px solid gray"> </hr>
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harjasae2001&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
+
+<hr style="border:2px solid gray"> </hr>
+
+[![An image of @harjasae2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjasae2001)](https://holopin.io/@harjasae2001)
+<!--
+<p align="left"> <a href="https://holopin.io/@harjasae2001"><img src="https://holopin.io/api/user/board?user=harjasae2001"/></a> </p>
+<p align="left"> <a href="https://holopin.io/@harjasae2001"><img src="https://holopin.io/api/user/board?user=harjasae2001"/></a> </p>
+-->
+
+<hr style="border:2px solid gray"> </hr>
 <details>
  <summary>
 <h2 align="left">🫱🏻‍🫲🏿 Connect with me</h2>
  </summary>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harjasae2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harjasae2001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harjasae2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" /></a>
 <a href="https://kaggle.com/harjas singh 1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harjas singh 1609" height="30" width="40" /></a>
 <a href="https://instagram.com/harjasae2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harjasae2001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harjascp" target="blank"><img background="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harjascp" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harjascpmaster" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjascpmaster" height="30" width="40" /></a>
 </p>
 </details>
 
+<hr style="border:2px solid gray"> </hr>
 <!--Languages and Skills-->
 <details>
    <summary><h2>👨🏻‍💻 Languages and Skills</h2></summary>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="drawing" width="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="drawing" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="80"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="drawing" width="90"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="drawing" width="80"/>
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="drawing" width="80"/>
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="drawing" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="drawing" width="80"/>
 </details>
 
+<hr style="border:2px solid gray"> </hr>
+
+<h2>Now Playing</h2>
+
 <!--Spotify Playing-->
-&nbsp;<div align="center">
+<div align="center">
+ 
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31s47awoltmycfqpeveuujdadk3a)
 </div>
 
