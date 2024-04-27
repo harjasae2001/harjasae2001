@@ -28,7 +28,7 @@
 <!-- Github Stats -->
 <h2>📈 Github Stats</h2>
  
-[![Harjas's GitHub stats]( https://github-readme-stats-one-flame-37.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Harjas's GitHub stats]( https://github-readme-stats-one-flame-37.vercel.app/api?username=harjasae2001&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr style="border:2px solid gray"> </hr>
 <!--Github Awards-->
