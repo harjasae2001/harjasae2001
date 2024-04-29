@@ -1,8 +1,4 @@
 ![HEADER](header.png)
-<!--
-<img src="giphy.gif" alt="cat" width="100%" height="600px"/>
-![https://img.shields.io/twitter/follow/harjasae2001](https://img.shields.io/twitter/follow/harjasae2001?link=https%3A%2F%2Ftwitter.com%2Fharjasae2001)
--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjasae2001&label=Profile%20views&color=0e75b6&style=flat" alt="harjasae2001" /> </p>
 
