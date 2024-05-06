@@ -63,7 +63,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/hryndi/emoji_search_react/issues/2#issuecomment-2095150183) in [hryndi/emoji_search_react](https://github.com/hryndi/emoji_search_react)
+1. 🎉 Merged PR [#2](https://github.com/harjasae2001/portfolio/pull/2) in [harjasae2001/portfolio](https://github.com/harjasae2001/portfolio)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
