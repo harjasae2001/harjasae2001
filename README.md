@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-harjasae2001.vercel.app/](https://portfolio-harjasae2001.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, TailWind**
 
 - 📫 How to reach me **harjas.singh.dev@gmail.com**
 
