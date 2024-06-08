@@ -63,7 +63,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/harjasae2001/Real_Estate_Finder/pull/51) in [harjasae2001/Real_Estate_Finder](https://github.com/harjasae2001/Real_Estate_Finder)
+1. 💪 Opened PR [#149](https://github.com/hellofaizan/xprofile/pull/149) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
