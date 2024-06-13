@@ -182,19 +182,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 </p>
 
 <hr style="border:2px solid gray"> </hr>
-<!--Languages and Skills-->
-<h2>Languages and Skills 🧑🏻‍💻</h2>
-<p align="center">
-<ul> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="drawing" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="drawing" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="drawing" width="80"/>
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="drawing" width="90"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="drawing" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="drawing" width="80"/>
-</ul>
-</p>
-<hr style="border:2px solid gray"> </hr>
 
 <h2>Now Playing</h2>
 
