@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149](https://github.com/hellofaizan/xprofile/pull/149) in [hellofaizan/xprofile](https://github.com/hellofaizan/xprofile)
+1. ❗ Opened issue [#179](https://github.com/hiteshchoudhary/apihub/issues/179) in [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
