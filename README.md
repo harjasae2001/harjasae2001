@@ -70,15 +70,13 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 109.5 kB Used in GitHub's Storage 
- > 
-> 🏆 270 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -147,7 +145,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:36:21 UTC
+ Last Updated on 24/06/2024 18:37:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
