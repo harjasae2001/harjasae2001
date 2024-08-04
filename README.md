@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/harjasae2001" target="blank"><img src="https://img.shields.io/twitter/follow/harjasae2001?logo=twitter&style=for-the-badge" alt="harjasae2001" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-harjasae2001.vercel.app/](https://portfolio-harjasae2001.vercel.app/)
 
