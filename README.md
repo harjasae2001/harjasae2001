@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/harjasae2001/Python_Webscaper/pull/1) in [harjasae2001/Python_Webscaper](https://github.com/harjasae2001/Python_Webscaper)
+1. 🎉 Merged PR [#74](https://github.com/harjasae2001/real-estate-finder/pull/74) in [harjasae2001/real-estate-finder](https://github.com/harjasae2001/real-estate-finder)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
