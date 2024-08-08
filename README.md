@@ -70,7 +70,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -78,11 +78,9 @@
 
 > 📦 106.8 kB Used in GitHub's Storage 
  > 
-> 🏆 290 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -137,11 +135,11 @@ Windows                  11 hrs 8 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ████████████████░░░░░░░░░   64.29 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               18 repos            ████████████████░░░░░░░░░   62.07 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -151,7 +149,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2024 18:39:49 UTC
+ Last Updated on 08/08/2024 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
