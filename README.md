@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/dhairyagothi/StationGuide/issues/223#issuecomment-2413390738) in [dhairyagothi/StationGuide](https://github.com/dhairyagothi/StationGuide)
+1. 🗣 Commented on [#70](https://github.com/BhattAnsh/Quiz-Quest/issues/70#issuecomment-2413495155) in [BhattAnsh/Quiz-Quest](https://github.com/BhattAnsh/Quiz-Quest)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
