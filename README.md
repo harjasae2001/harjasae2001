@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#727](https://github.com/shahednasser/awesome-resources/pull/727) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
+1. 🗣 Commented on [#223](https://github.com/dhairyagothi/StationGuide/issues/223#issuecomment-2413390738) in [dhairyagothi/StationGuide](https://github.com/dhairyagothi/StationGuide)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
