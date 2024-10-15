@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/BhattAnsh/Quiz-Quest/issues/70#issuecomment-2413495155) in [BhattAnsh/Quiz-Quest](https://github.com/BhattAnsh/Quiz-Quest)
+1. ❗ Opened issue [#2437](https://github.com/unkeyed/unkey/issues/2437) in [unkeyed/unkey](https://github.com/unkeyed/unkey)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
