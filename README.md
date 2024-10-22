@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2437](https://github.com/unkeyed/unkey/issues/2437) in [unkeyed/unkey](https://github.com/unkeyed/unkey)
+1. 🗣 Commented on [#24](https://github.com/sharmavikas4/MERN_BLOG/issues/24#issuecomment-2427391058) in [sharmavikas4/MERN_BLOG](https://github.com/sharmavikas4/MERN_BLOG)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
