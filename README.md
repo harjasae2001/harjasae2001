@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/sharmavikas4/MERN_BLOG/issues/24#issuecomment-2427391058) in [sharmavikas4/MERN_BLOG](https://github.com/sharmavikas4/MERN_BLOG)
+1. 🗣 Commented on [#840](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/840#issuecomment-2427434032) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
