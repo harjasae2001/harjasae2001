@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#601](https://github.com/Trisha-tech/OnlineBookSales/issues/601#issuecomment-2432777265) in [Trisha-tech/OnlineBookSales](https://github.com/Trisha-tech/OnlineBookSales)
+1. 🗣 Commented on [#331](https://github.com/Shreyaa173/Code-Book/issues/331#issuecomment-2432813322) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
