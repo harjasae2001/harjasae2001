@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#735](https://github.com/dohinaf/basic-icecream-website/issues/735#issuecomment-2429797034) in [dohinaf/basic-icecream-website](https://github.com/dohinaf/basic-icecream-website)
+1. ❗ Opened issue [#386](https://github.com/RamakrushnaBiswal/PlayCafe/issues/386) in [RamakrushnaBiswal/PlayCafe](https://github.com/RamakrushnaBiswal/PlayCafe)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
