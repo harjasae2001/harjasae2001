@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#386](https://github.com/RamakrushnaBiswal/PlayCafe/issues/386) in [RamakrushnaBiswal/PlayCafe](https://github.com/RamakrushnaBiswal/PlayCafe)
+1. 🗣 Commented on [#840](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/840#issuecomment-2429940848) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
