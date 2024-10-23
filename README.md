@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/divyansh-2005/FinNews/issues/256#issuecomment-2429529190) in [divyansh-2005/FinNews](https://github.com/divyansh-2005/FinNews)
+1. 🗣 Commented on [#735](https://github.com/dohinaf/basic-icecream-website/issues/735#issuecomment-2429797034) in [dohinaf/basic-icecream-website](https://github.com/dohinaf/basic-icecream-website)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
