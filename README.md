@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#393](https://github.com/maniyaom/Movie-Ticket-Booking/issues/393) in [maniyaom/Movie-Ticket-Booking](https://github.com/maniyaom/Movie-Ticket-Booking)
+1. ❗ Opened issue [#487](https://github.com/gauravsingh1281/Rentalog.in--Frontend/issues/487) in [gauravsingh1281/Rentalog.in--Frontend](https://github.com/gauravsingh1281/Rentalog.in--Frontend)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
