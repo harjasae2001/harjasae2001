@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#487](https://github.com/gauravsingh1281/Rentalog.in--Frontend/issues/487) in [gauravsingh1281/Rentalog.in--Frontend](https://github.com/gauravsingh1281/Rentalog.in--Frontend)
+1. 🗣 Commented on [#331](https://github.com/Shreyaa173/Code-Book/issues/331#issuecomment-2434420820) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
