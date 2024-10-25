@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1393](https://github.com/ANSHIKA-26/WordWise/issues/1393) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+1. 🗣 Commented on [#621](https://github.com/Tejashri-Taral/TrendTrove-Ecommerce/issues/621#issuecomment-2437029226) in [Tejashri-Taral/TrendTrove-Ecommerce](https://github.com/Tejashri-Taral/TrendTrove-Ecommerce)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
