@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/Shreyaa173/Code-Book/issues/331#issuecomment-2435316853) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
+1. ❗ Opened issue [#1380](https://github.com/ANSHIKA-26/WordWise/issues/1380) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
