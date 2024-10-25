@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#356](https://github.com/Shreyaa173/Code-Book/pull/356) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
+1. 💪 Opened PR [#358](https://github.com/Shreyaa173/Code-Book/pull/358) in [Shreyaa173/Code-Book](https://github.com/Shreyaa173/Code-Book)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
