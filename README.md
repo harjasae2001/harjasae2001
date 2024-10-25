@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1380](https://github.com/ANSHIKA-26/WordWise/issues/1380#issuecomment-2436919491) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+1. ❗ Opened issue [#1393](https://github.com/ANSHIKA-26/WordWise/issues/1393) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
