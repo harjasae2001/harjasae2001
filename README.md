@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#840](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/pull/840#issuecomment-2437945325) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
+1. 🗣 Commented on [#147](https://github.com/Bitbox-Connect/Bitbox/issues/147#issuecomment-2438403361) in [Bitbox-Connect/Bitbox](https://github.com/Bitbox-Connect/Bitbox)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
