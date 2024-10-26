@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/Bitbox-Connect/Bitbox/issues/147#issuecomment-2438403361) in [Bitbox-Connect/Bitbox](https://github.com/Bitbox-Connect/Bitbox)
+1. ❌ Closed PR [#1419](https://github.com/ANSHIKA-26/WordWise/pull/1419) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
