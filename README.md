@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1419](https://github.com/ANSHIKA-26/WordWise/pull/1419) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+1. 🗣 Commented on [#911](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues/911#issuecomment-2439339204) in [DharshiBalasubramaniyam/ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
