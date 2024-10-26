@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1450](https://github.com/ANSHIKA-26/WordWise/pull/1450) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+1. 💪 Opened PR [#271](https://github.com/Bitbox-Connect/Bitbox/pull/271) in [Bitbox-Connect/Bitbox](https://github.com/Bitbox-Connect/Bitbox)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
