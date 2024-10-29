@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1489](https://github.com/ANSHIKA-26/WordWise/pull/1489#issuecomment-2441216894) in [ANSHIKA-26/WordWise](https://github.com/ANSHIKA-26/WordWise)
+1. 💪 Opened PR [#558](https://github.com/gauravsingh1281/Rentalog.in--Frontend/pull/558) in [gauravsingh1281/Rentalog.in--Frontend](https://github.com/gauravsingh1281/Rentalog.in--Frontend)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
