@@ -72,11 +72,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 111.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 343 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -111,17 +113,17 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 36 mins        █████████████████████████   99.19 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JavaScript               28 mins             ████████████████████████░   97.29 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codecrafters-dns-server-j1 hr 37 mins        █████████████████████████   100.00 % 
+codecrafters-dns-server-j29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +143,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 18:42:34 UTC
+ Last Updated on 13/11/2024 18:43:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
