@@ -78,6 +78,8 @@
 
 > 📦 111.9 kB Used in GitHub's Storage 
  > 
+> 🏆 347 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 50 Public Repositories 
@@ -144,7 +146,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 18:47:11 UTC
+ Last Updated on 10/12/2024 18:47:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
