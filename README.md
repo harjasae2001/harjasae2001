@@ -70,11 +70,15 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2031%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.8 kB Used in GitHub's Storage 
+> 📦 111.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -82,6 +86,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                371 commits         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌆 Daytime                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+🌃 Evening                818 commits         ██████████████░░░░░░░░░░░   54.53 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Tuesday                  216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Friday                   213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Sunday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C++                      1 hr 15 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+atcoder                  1 hr 15 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,7 +142,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:44:56 UTC
+ Last Updated on 10/01/2025 18:43:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
