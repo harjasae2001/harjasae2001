@@ -70,7 +70,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,17 +111,17 @@ Sunday                   138 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 18 mins        █████████████████████████   100.00 % 
+C++                      1 hr 30 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cses                     1 hr 7 mins         ██████████████████████░░░   86.16 % 
-dp                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+cses                     1 hr 19 mins        ██████████████████████░░░   87.92 % 
+dp                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +141,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 18:41:19 UTC
+ Last Updated on 03/02/2025 18:41:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
