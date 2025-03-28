@@ -70,13 +70,13 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 111.9 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -84,6 +84,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                377 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌆 Daytime                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌃 Evening                818 commits         ██████████████░░░░░░░░░░░   54.24 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Tuesday                  216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Friday                   213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Sunday                   138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +140,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:45:26 UTC
+ Last Updated on 28/03/2025 18:47:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
