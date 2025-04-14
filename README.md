@@ -70,13 +70,13 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.9 kB Used in GitHub's Storage 
+> 📦 114.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,16 +111,23 @@ Sunday                   141 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      10 mins             ████████████░░░░░░░░░░░░░   46.91 % 
+JavaScript               7 mins              ████████░░░░░░░░░░░░░░░░░   32.60 % 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   99.89 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+smart-email-reply        12 mins             █████████████░░░░░░░░░░░░   52.98 % 
+Cpp-Coding-Snippets      10 mins             ████████████░░░░░░░░░░░░░   46.91 % 
+opencv_project           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +147,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:43:09 UTC
+ Last Updated on 14/04/2025 18:47:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
