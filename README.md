@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/kshashikumar/mysql-gui/issues/22#issuecomment-2481005155) in [kshashikumar/mysql-gui](https://github.com/kshashikumar/mysql-gui)
+1. ❌ Closed PR [#727](https://github.com/shahednasser/awesome-resources/pull/727) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
