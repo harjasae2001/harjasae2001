@@ -78,8 +78,6 @@
 
 > 📦 94.3 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -142,7 +140,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 18:46:46 UTC
+ Last Updated on 15/05/2025 18:48:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
