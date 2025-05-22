@@ -70,6 +70,8 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -82,6 +84,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                372 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌆 Daytime                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌃 Evening                767 commits         █████████████░░░░░░░░░░░░   53.38 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Tuesday                  206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Friday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Sunday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,7 +140,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:48:38 UTC
+ Last Updated on 22/05/2025 18:47:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
