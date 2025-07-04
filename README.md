@@ -111,18 +111,16 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 mins             █████████████░░░░░░░░░░░░   51.73 % 
-HTML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Markdown                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-flappy-bird-starter-kit  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +140,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:48:47 UTC
+ Last Updated on 04/07/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
