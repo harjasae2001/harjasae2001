@@ -78,6 +78,8 @@
 
 > 📦 94.4 kB Used in GitHub's Storage 
  > 
+> 🏆 29 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -111,17 +113,16 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        █████████████████████████   98.61 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Crew Sick Report         2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +142,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 18:55:00 UTC
+ Last Updated on 29/07/2025 18:55:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
