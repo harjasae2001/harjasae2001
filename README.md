@@ -76,7 +76,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,8 +111,8 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   21 mins             ██████████████████████░░░   89.97 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Python                   21 mins             ██████████████████████░░░   89.98 % 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 
 🔥 Editors: 
 VS Code                  23 mins             █████████████████████████   100.00 % 
@@ -141,7 +141,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:47:29 UTC
+ Last Updated on 20/08/2025 18:48:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
