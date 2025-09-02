@@ -111,20 +111,16 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████░░░░░░░░░░░░   50.83 % 
-Python                   12 mins             ████████████░░░░░░░░░░░░░   48.22 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-teams-chef-bot           13 mins             █████████████░░░░░░░░░░░░   51.78 % 
-Teams ChatBot            12 mins             ████████████░░░░░░░░░░░░░   48.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +140,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:45:30 UTC
+ Last Updated on 02/09/2025 18:45:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
