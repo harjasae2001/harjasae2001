@@ -70,6 +70,8 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -111,16 +113,20 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              ███████████░░░░░░░░░░░░░░   45.41 % 
+Text                     2 mins              ██████████░░░░░░░░░░░░░░░   41.04 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Web Development          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +146,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:42:23 UTC
+ Last Updated on 29/09/2025 18:47:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
