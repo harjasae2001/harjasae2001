@@ -72,11 +72,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2025
  > 
@@ -143,7 +143,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2025 18:48:52 UTC
+ Last Updated on 05/11/2025 18:47:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
