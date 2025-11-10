@@ -70,9 +70,9 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,6 +86,46 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                372 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌆 Daytime                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+🌃 Evening                766 commits         █████████████░░░░░░░░░░░░   53.57 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Tuesday                  205 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Wednesday                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Friday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Sunday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     1 hr 48 mins        █████████████████████████   98.41 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 49 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Web Development          1 hr 49 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +143,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 18:43:46 UTC
+ Last Updated on 10/11/2025 18:46:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
