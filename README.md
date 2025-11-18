@@ -113,17 +113,16 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     14 mins             ██████████████████████░░░   89.75 % 
-Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Web Development          15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +142,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2025 18:49:17 UTC
+ Last Updated on 18/11/2025 18:50:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
