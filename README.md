@@ -84,6 +84,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                372 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌆 Daytime                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+🌃 Evening                766 commits         █████████████░░░░░░░░░░░░   53.57 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Tuesday                  205 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Wednesday                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Friday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Sunday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +140,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:47:58 UTC
+ Last Updated on 03/01/2026 18:50:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
