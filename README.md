@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#727](https://github.com/shahednasser/awesome-resources/pull/727) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
+1. 🔒 Closed issue [#11](https://github.com/harjasae2001/CryptoApp/issues/11) in [harjasae2001/CryptoApp](https://github.com/harjasae2001/CryptoApp)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
