@@ -70,13 +70,15 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 91.3 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,6 +86,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                372 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌆 Daytime                227 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌃 Evening                811 commits         ██████████████░░░░░░░░░░░   54.95 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Tuesday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                211 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Friday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Sunday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSON                     8 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  8 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cryptoapp                8 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  8 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +142,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:43:01 UTC
+ Last Updated on 18/05/2026 20:08:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
