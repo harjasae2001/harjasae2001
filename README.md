@@ -70,8 +70,6 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2022%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -147,7 +145,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harjasae2001/harjasae2001/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:18:40 UTC
+ Last Updated on 22/05/2026 20:16:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
