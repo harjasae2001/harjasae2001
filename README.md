@@ -177,15 +177,6 @@ Python                   2 repos             ██░░░░░░░░░�
 <a href="https://www.leetcode.com/harjascpmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjascpmaster" height="30" width="40" /></a>
 </p>
 
-<hr style="border:2px solid gray"> </hr>
-
-<h2>Now Playing</h2>
-
-<!--Spotify Playing-->
-<div align="center">
- 
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31s47awoltmycfqpeveuujdadk3a)
-</div>
 
 
 
