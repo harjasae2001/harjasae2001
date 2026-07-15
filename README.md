@@ -64,7 +64,7 @@
 <h3>My Recent Activity 🏃🏻</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/harjasae2001/harjasae2001/pull/3) in [harjasae2001/harjasae2001](https://github.com/harjasae2001/harjasae2001)
+1. ❌ Closed PR [#22](https://github.com/harjasae2001/CryptoApp/pull/22) in [harjasae2001/CryptoApp](https://github.com/harjasae2001/CryptoApp)
 <!--END_SECTION:activity-->
 
 <hr style="border:2px solid gray"> </hr>
