@@ -11,7 +11,7 @@ Java, Spring Boot, SQL, and cloud-native tooling.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harjassingh1/)
 
 ## Featured work
-- **DocPipeline** — [GitHub](https://github.com/harjasae2001/docpipeline) · [Demo](https://d2qd8wd4iaw4vq.cloudfront.net)  
+- **DocPipeline** — [GitHub](https://github.com/harjasae2001/docpipeline) · [Demo](https://docpipeline-two.vercel.app/)  
   Document-processing pipeline with Java, Spring Boot and AWS (ECS, TextExtract, S3, CloudFront, DynamoDB).
   
 - **Smart Email Reply** — [GitHub](https://github.com/harjasae2001/smart-email-reply)
